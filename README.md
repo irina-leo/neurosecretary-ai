@@ -272,4 +272,4 @@ AI Product Developer / AI Systems Designer
 * LICENSE.md
 * INTELLECTUAL_PROPERTY.md
 
-© 2025–2026 Irina Leonova (GitHub: irina-leo). Все права защищены.
+© 2025–2026 Irina Fomenko (GitHub: irina-leo). Все права защищены.
