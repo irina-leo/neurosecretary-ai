@@ -4,7 +4,7 @@
 
 NeuroSecretary AI
 
-Author: Irina Leonova
+Author: Irina Fomenko
 
 GitHub: irina-leo
 
